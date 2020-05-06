@@ -1,7 +1,3 @@
-# hci_project 2020
-
-Mijat Miletić sw66-2017
-
 ## Used frameworks and libraries 
 1. vue.js
 2. vuex
